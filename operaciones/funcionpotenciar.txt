@@ -1,0 +1,2 @@
+Función potenciar(base, exponente):
+    Retorna base elevado a la potencia exponente
