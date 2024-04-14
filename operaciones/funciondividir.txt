@@ -1,6 +1,6 @@
 Función dividir(a, b):
-    Si b ≠ 0:
-        Retorna a / b
-    Sino:
+    Si b == 0:
         Imprimir "Error: división por cero"
         Retorna NaN
+    Sino:
+        Retorna a / b
