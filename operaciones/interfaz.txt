@@ -1,0 +1,21 @@
+Inicio del programa:
+    Repetir:
+        Imprimir "Ingrese el primer número:"
+        Leer primerNumero
+        Imprimir "Ingrese el operador (+, -, *, /, ^, sqrt, %):"
+        Leer operador
+
+        Si operador != "sqrt":
+            Imprimir "Ingrese el segundo número:"
+            Leer segundoNumero
+
+        resultado = calcular(operador, primerNumero, segundoNumero)
+
+        Si resultado no es NaN:
+            Imprimir "El resultado es:", resultado
+        Sino:
+            Imprimir "Hubo un error en la operación. Inténtalo de nuevo."
+
+        Imprimir "¿Desea realizar otra operación? (s/n):"
+        Leer respuesta
+    Mientras respuesta == "s"
