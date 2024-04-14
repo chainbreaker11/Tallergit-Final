@@ -1,1 +1,0 @@
-funcionalidad de los botones de la interfaz de usuario (depende del diseño)
