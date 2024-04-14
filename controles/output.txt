@@ -1,0 +1,1 @@
+funcionalidad del output (depende de la interfaz del usuario)

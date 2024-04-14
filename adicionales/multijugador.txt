@@ -1,2 +1,2 @@
 funcionalidad del multijugador
-//no esta terminada 50%
+se terminó la funcionalidad del multijugador
